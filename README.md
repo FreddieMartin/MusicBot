@@ -8,7 +8,7 @@ npm i
 ```
 ##
 ## Useage
-
+###
 Edit the config.js file:
 
 ```js
