@@ -10,7 +10,7 @@ npm i
 ## Useage
 ###
 Edit the config.js file:
-
+##
 ```js
 exports.TOKEN = ''; // Your token here
 
